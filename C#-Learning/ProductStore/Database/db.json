@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "Name": "mouse",
+      "Description": "logitech",
+      "Price": 300,
+      "id": 1
+    },
+    {
+      "Name": "Keyboard",
+      "Description": "logitech",
+      "Price": 350,
+      "id": 2
+    }
+  ]
+}

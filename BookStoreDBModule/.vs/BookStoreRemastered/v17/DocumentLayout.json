@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|c:\\users\\dev.ans\\source\\repos\\bookstoredbmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|c:\\users\\dev.ans\\source\\repos\\bookstoredbmodule\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|c:\\users\\dev.ans\\source\\repos\\bookstoredbmodule\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|c:\\users\\dev.ans\\source\\repos\\bookstoredbmodule\\models\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|solutionrelative:models\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|c:\\users\\dev.ans\\source\\repos\\bookstoredbmodule\\bookstoreremastered.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E558C5E-77C7-4775-B67F-4D30E7C4E1E1}|BookStoreRemastered.csproj|solutionrelative:bookstoreremastered.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\models\\Book.cs",
+              "RelativeDocumentMoniker": "models\\Book.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\models\\Book.cs",
+              "RelativeToolTip": "models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T13:45:39.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\models\\AddUser.cs",
+              "RelativeDocumentMoniker": "models\\AddUser.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\models\\AddUser.cs",
+              "RelativeToolTip": "models\\AddUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T13:45:39.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\models\\User.cs",
+              "RelativeDocumentMoniker": "models\\User.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\models\\User.cs",
+              "RelativeToolTip": "models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T13:45:39.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStoreRemastered.csproj",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\Source\\Repos\\BookStoreDBModule\\BookStoreRemastered.csproj",
+              "RelativeDocumentMoniker": "BookStoreRemastered.csproj",
+              "ToolTip": "C:\\Users\\DEV.ANS\\Source\\Repos\\BookStoreDBModule\\BookStoreRemastered.csproj",
+              "RelativeToolTip": "BookStoreRemastered.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-29T13:45:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\BookStoreDBModule\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T13:45:39.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
