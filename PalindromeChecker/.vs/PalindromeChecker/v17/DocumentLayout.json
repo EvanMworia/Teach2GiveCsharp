@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB06FB5-31B9-474D-BD60-CC8E7B836E29}|PalindromeChecker\\PalindromeChecker.csproj|c:\\users\\dev.ans\\source\\repos\\palindromechecker\\palindromechecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB06FB5-31B9-474D-BD60-CC8E7B836E29}|PalindromeChecker\\PalindromeChecker.csproj|solutionrelative:palindromechecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C78345C-EF53-4792-9561-BEA22D727E86}|PalindromeCheckerTest\\PalindromeCheckerTest.csproj|c:\\users\\dev.ans\\source\\repos\\palindromechecker\\palindromecheckertest\\checkspalindrometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C78345C-EF53-4792-9561-BEA22D727E86}|PalindromeCheckerTest\\PalindromeCheckerTest.csproj|solutionrelative:palindromecheckertest\\checkspalindrometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB06FB5-31B9-474D-BD60-CC8E7B836E29}|PalindromeChecker\\PalindromeChecker.csproj|c:\\users\\dev.ans\\source\\repos\\palindromechecker\\palindromechecker\\checkspalindromes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB06FB5-31B9-474D-BD60-CC8E7B836E29}|PalindromeChecker\\PalindromeChecker.csproj|solutionrelative:palindromechecker\\checkspalindromes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChecksPalindromeTest.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\PalindromeCheckerTest\\ChecksPalindromeTest.cs",
+              "RelativeDocumentMoniker": "PalindromeCheckerTest\\ChecksPalindromeTest.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\PalindromeCheckerTest\\ChecksPalindromeTest.cs",
+              "RelativeToolTip": "PalindromeCheckerTest\\ChecksPalindromeTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T12:51:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChecksPalindromes.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\PalindromeChecker\\ChecksPalindromes.cs",
+              "RelativeDocumentMoniker": "PalindromeChecker\\ChecksPalindromes.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\PalindromeChecker\\ChecksPalindromes.cs",
+              "RelativeToolTip": "PalindromeChecker\\ChecksPalindromes.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T03:54:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\PalindromeChecker\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeChecker\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\PalindromeChecker\\PalindromeChecker\\Program.cs",
+              "RelativeToolTip": "PalindromeChecker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T03:54:16.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
