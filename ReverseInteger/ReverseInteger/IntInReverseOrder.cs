@@ -9,7 +9,7 @@ namespace ReverseInteger
 {
     public class IntInReverseOrder
     {
-       public static int reverseNumber(string value) 
+       public  int reverseNumber(string value) 
         {
            bool isNumber = int.TryParse(value, out int number);
             if (isNumber)

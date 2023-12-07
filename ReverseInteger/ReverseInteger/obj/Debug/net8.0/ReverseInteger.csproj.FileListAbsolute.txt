@@ -12,3 +12,4 @@ C:\Users\DEV.ANS\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net8.0\ref
 C:\Users\DEV.ANS\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net8.0\ReverseInteger.pdb
 C:\Users\DEV.ANS\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net8.0\ReverseInteger.genruntimeconfig.cache
 C:\Users\DEV.ANS\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net8.0\ref\ReverseInteger.dll
+C:\Users\DEV.ANS\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net8.0\ReverseInteger.sourcelink.json
