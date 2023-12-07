@@ -1,17 +1,17 @@
 ﻿using ReverseInteger;
 
-
+IntInReverseOrder intInReverseOrder = new IntInReverseOrder();
 
 try
 {
     do {
-        Console.WriteLine("Input a number you want  to be reversed");
+        Console.WriteLine("Input a number you want  to be reversed or 'q' to quit");
         string input = Console.ReadLine();
         if (input == "q") {
             break;
         }
        
-         int numberReverse = IntInReverseOrder.reverseNumber(input);
+         int numberReverse = intInReverseOrder.reverseNumber(input);
          Console.WriteLine(numberReverse);
            
 
