@@ -13,17 +13,19 @@ namespace CountVowelsTest
     {
         
         [Test]
-        public void countVowels_WhenCalled_ShouldCountVowelsUsed() 
+        [TestCase("EVANS", 2)]
+        [TestCase("ras", 1)]
+        public void countVowels_WhenCalled_ShouldCountVowelsUsed( string name, int output) 
         {
             //TRIPLE A
             //ARRANGE
             VowelCount test = new();
 
             //ACT
-            var result=test.countVowels("Evans");
+            var result=test.countVowels( name);
 
             //ASSERT
-            Assert.That(result, Is.EqualTo(2));
+            Assert.That(result, Is.EqualTo(output));
 
         }
     }

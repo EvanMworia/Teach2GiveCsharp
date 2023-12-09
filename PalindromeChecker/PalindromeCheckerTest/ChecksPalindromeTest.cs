@@ -18,9 +18,9 @@ namespace PalindromeCheckerTest
             //ARRANGE
             ChecksPalindromes test = new ChecksPalindromes();
             //ACT
-            var result = test.isThisAPalindrome("EYE");
+            var result = test.isThisAPalindrome(" ");
             //ASSERT
-            Assert.That(result, Is.EqualTo("eye"));
+            Assert.That(result, Is.EqualTo("  "));
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\bin\Debug\net8.0\CapitalizeFirstWords.exe
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\bin\Debug\net8.0\CapitalizeFirstWords.deps.json
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\bin\Debug\net8.0\CapitalizeFirstWords.runtimeconfig.json
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\bin\Debug\net8.0\CapitalizeFirstWords.dll
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\bin\Debug\net8.0\CapitalizeFirstWords.pdb
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.AssemblyInfoInputs.cache
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.AssemblyInfo.cs
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.csproj.CoreCompileInputs.cache
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.sourcelink.json
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.dll
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\refint\CapitalizeFirstWords.dll
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.pdb
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\CapitalizeFirstWords.genruntimeconfig.cache
+C:\Users\DEV.ANS\source\repos\CapitalizeFirstWords\CapitalizeFirstWords\obj\Debug\net8.0\ref\CapitalizeFirstWords.dll

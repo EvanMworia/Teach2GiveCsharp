@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -42,8 +38,7 @@
               "RelativeToolTip": "TestProject1\\GlobalUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-07T09:37:01.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-07T09:37:01.106Z"
             },
             {
               "$type": "Document",
@@ -53,7 +48,7 @@
               "RelativeDocumentMoniker": "TestProject1\\IntInReverseOrderTests.cs",
               "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\ReverseInteger\\TestProject1\\IntInReverseOrderTests.cs",
               "RelativeToolTip": "TestProject1\\IntInReverseOrderTests.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-07T09:15:49.943Z",
               "EditorCaption": ""
@@ -68,8 +63,7 @@
               "RelativeToolTip": "ReverseInteger\\IntInReverseOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-06T10:30:38.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-06T10:30:38.692Z"
             },
             {
               "$type": "Document",
@@ -81,8 +75,7 @@
               "RelativeToolTip": "ReverseInteger\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-06T10:29:16.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-06T10:29:16.061Z"
             }
           ]
         }

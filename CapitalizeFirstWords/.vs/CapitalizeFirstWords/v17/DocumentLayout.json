@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV.ANS\\source\\repos\\CapitalizeFirstWords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81340B56-287A-49D3-8ABA-9FB617999F4E}|CapitalizeFirstWords\\CapitalizeFirstWords.csproj|c:\\users\\dev.ans\\source\\repos\\capitalizefirstwords\\capitalizefirstwords\\tittlecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81340B56-287A-49D3-8ABA-9FB617999F4E}|CapitalizeFirstWords\\CapitalizeFirstWords.csproj|solutionrelative:capitalizefirstwords\\tittlecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81340B56-287A-49D3-8ABA-9FB617999F4E}|CapitalizeFirstWords\\CapitalizeFirstWords.csproj|c:\\users\\dev.ans\\source\\repos\\capitalizefirstwords\\capitalizefirstwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81340B56-287A-49D3-8ABA-9FB617999F4E}|CapitalizeFirstWords\\CapitalizeFirstWords.csproj|solutionrelative:capitalizefirstwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TittleCase.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\CapitalizeFirstWords\\CapitalizeFirstWords\\TittleCase.cs",
+              "RelativeDocumentMoniker": "CapitalizeFirstWords\\TittleCase.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\CapitalizeFirstWords\\CapitalizeFirstWords\\TittleCase.cs",
+              "RelativeToolTip": "CapitalizeFirstWords\\TittleCase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T12:52:57.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\CapitalizeFirstWords\\CapitalizeFirstWords\\Program.cs",
+              "RelativeDocumentMoniker": "CapitalizeFirstWords\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\CapitalizeFirstWords\\CapitalizeFirstWords\\Program.cs",
+              "RelativeToolTip": "CapitalizeFirstWords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T12:47:49.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

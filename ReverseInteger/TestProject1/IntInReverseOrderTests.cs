@@ -21,10 +21,10 @@ namespace ReverseIntegerTests
             IntInReverseOrder test = new();
 
             //ACT => act out the act of calling the method
-            var result = test.reverseNumber("499");
+            var result = test.reverseNumber("-499");
 
             //ASSERT => confirm if you're getting what you wanted/expected
-            Assert.That(result, Is.EqualTo(994));
+            Assert.That(result, Is.EqualTo(-994));
 
         }
     }
