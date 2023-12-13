@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV.ANS\\source\\repos\\Products_Order_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F6E8D-5D84-440B-8474-8F84B80EE59F}|Products_Order_Management\\Products_Order_Management.csproj|c:\\users\\dev.ans\\source\\repos\\products_order_management\\products_order_management\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F6E8D-5D84-440B-8474-8F84B80EE59F}|Products_Order_Management\\Products_Order_Management.csproj|solutionrelative:products_order_management\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F6E8D-5D84-440B-8474-8F84B80EE59F}|Products_Order_Management\\Products_Order_Management.csproj|c:\\users\\dev.ans\\source\\repos\\products_order_management\\products_order_management\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F6E8D-5D84-440B-8474-8F84B80EE59F}|Products_Order_Management\\Products_Order_Management.csproj|solutionrelative:products_order_management\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\Products_Order_Management\\Products_Order_Management\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Products_Order_Management\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\Products_Order_Management\\Products_Order_Management\\Models\\Orders.cs",
+              "RelativeToolTip": "Products_Order_Management\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T12:46:39.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\DEV.ANS\\source\\repos\\Products_Order_Management\\Products_Order_Management\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Products_Order_Management\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\DEV.ANS\\source\\repos\\Products_Order_Management\\Products_Order_Management\\Models\\Products.cs",
+              "RelativeToolTip": "Products_Order_Management\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T12:46:27.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
