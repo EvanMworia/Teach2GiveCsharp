@@ -22,7 +22,7 @@ namespace HospitalManagementSystem.Services
             catch (Exception e)
             {
 
-                Console.WriteLine($"\tThere might be other issues wrong, but mostly it looks like: {e.Message}");
+                Console.WriteLine($"\t it looks like: {e.InnerException.Message}");
                 return false;
             }
         }

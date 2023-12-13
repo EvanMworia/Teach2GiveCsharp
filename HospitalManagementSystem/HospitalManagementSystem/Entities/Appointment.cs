@@ -13,8 +13,7 @@ namespace HospitalManagementSystem.Entities
     {
         [Key]
         public int AppointmentId { get; set; }
-        public int AppointmentDate { get; set; }
-        public int AppointmentTime { get; set; } 
+        public DateTime AppointmentDate { get; set; } = DateTime.Now;
 
 
         public int PatientId { get; set; }
